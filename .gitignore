@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Dependencies (huge, and anyone can reinstall them)
+node_modules/
+venv/
+.venv/
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Build output
+dist/
+build/
+
+# Mac and editor junk
+.DS_Store
+.vscode/
